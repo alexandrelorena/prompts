@@ -16,7 +16,7 @@ Atue como um expecialista em markdown e me ajude com um ebook sobre o tema.
 > Linguagem simples e fácil para qualquer pessoa entender.
 
 ```
-
+![Imagem](/capa.png)
 
 .
 .
