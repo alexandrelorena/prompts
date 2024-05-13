@@ -1,6 +1,23 @@
 # Acesse o Artigo: [DOMINE O MARKDOWN!](https://github.com/alexandrelorena/prompts/blob/main/prompts-ebook-markdown.pdf "Domine o Markdown!")
-.
-.
+
+
+>### Prompt utilizado:
+>
+```
+Atue como um expecialista em markdown e me ajude com um ebook sobre o tema.
+
+{REGRAS}
+
+> Título, subtítulo e conteúdo
+> 10 tópicos
+> Conteúdo com exemplos
+> Dicas e atalhos
+> Melhores práticas
+> Linguagem simples e fácil para qualquer pessoa entender.
+
+```
+
+
 .
 .
 .
