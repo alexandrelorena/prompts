@@ -1,10 +1,33 @@
-# MINI GUIA DE MARKDOWN
+# Acesse o Artigo: [DOMINE O MARKDOWN!](https://github.com/alexandrelorena/prompts/blob/main/prompts-ebook-markdown.pdf "Domine o Markdown!")
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 #### Simplifique a formatação de textos para a web
 ---
 
 >### Simplifique a formatação de textos para seus projetos web
 
 - [Índice](#Tabela)
+
+
+
+
+
 
 
 # Título
